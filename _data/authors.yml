@@ -1,22 +1,29 @@
-"Your Name":
+"Jihan Yao":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Shangbin Feng":
+  url: https://bunsenfeng.github.io/
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Bingbing Wen":
+  url: https://bbwen.github.io/
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Wenxuan Ding":
+  url: https://wenwen-d.github.io/
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Yuta Saito":
+  url: https://usait0.com/en/
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Banghua Zhu":
+  url: https://people.eecs.berkeley.edu/~banghua/
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Yulia Tsvetkov":
+  url: https://homes.cs.washington.edu/~yuliats/
+
+"Lucy Lu Wang":
+  url: https://llwang.net/
+
+"Bill Howe":
+  url: https://homes.cs.washington.edu/~billhowe/
+
+"Thorsten Joachims":
+  url: https://www.cs.cornell.edu/people/tj/

@@ -1,18 +1,17 @@
-primary_name: "Your Name"
+primary_name: "Jihan Yao"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jihan Yao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/UW.png  # Logo is optional
+  name: Ph.D student at University of Washington
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "jihany2@cs.washington.edu"
+cv_link: https://github.com/yaojh18/yaojh18.github.io/tree/main/assets/cv/CV.pdf
+gscholar: BnapRaUAAAAJ
+github: yaojh18
+twitter: jihan_yao
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,40 +21,32 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a 2nd-year PhD student at Paul G. Allen School of Computer Science & Engineering, University of Washington. I am fortunate to be advised by Prof. <a href="https://people.eecs.berkeley.edu/~banghua/">Banghua Zhu</a>. Prior to that, I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests primarily focus on <b>Large Foundation Models</b>:
+    <ul>
+      <li> <b>Reliability</b>: Investigate whether models can recognize their knowledge gaps and abstain when uncertain. This enhances trustworthiness and minimizes risks in high-stakes domains such as medical applications.</li>
+      <li> <b>Evaluation</b>: Address biases in model evaluation and align with human preferences, particularly in multi-modal tasks. This will establish standardized, fair, and reliable evaluation protocols for large foundation models.</li>
+      <li> <b>Alignment</b>: Explore data-centric approaches to optimize the alignment process. This can expand the capabilities of large foundation models under only limited high-quality data and potentially enable self-improvement.</li>
+    </ul>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+#portrait_caption:
 
-education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+#education:
+#- name:
+#  logo:
+#  position:
+#  date:
 
 # experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+# - name:
+#   logo:
+#   position:
+#   date:
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#awards:
+#- name:
+#  date:
