@@ -7,8 +7,8 @@ abstract: >-
  MMMG is a comprehensive and reliable benchmark designed to evaluate multimodal generation across four modality combinations, emphasizing tasks that are hard to generate but easy to evaluate automatically. It covers 49 tasks with 937 instructions and achieves 94.3% agreement with human judgment. Evaluation of 24 models reveals persistent weaknesses in interleaved and audio generation.
 cover:          /assets/images/covers/mmmg.png
 authors:
-  - Jihan Yao
-  - Yushi Hu
+  - Jihan Yao*
+  - Yushi Hu*
   - Yujie Yi
   - Bin Han
   - Shangbin Feng
