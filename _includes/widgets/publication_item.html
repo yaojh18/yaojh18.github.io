@@ -3,7 +3,13 @@
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
         <div class="col-md-4 col-xl-4 mb-md-0 p-md-3" style="display: flex; justify-content: center; align-items: center;">
             {%- if item.cover -%}
-            <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" style="display: flex; justify-content: center; align-items: center">
+            <div style="max-height: 200px; overflow: hidden;">
+              <img
+                data-src="{{ item.cover | relative_url }}"
+                alt="{{ item.title }}" class="lazy w-100 rounded-sm"
+                src="{{ '/assets/images/empty_300x200.png' | relative_url }}"
+                style="width: 100%; object-fit: cover;">
+            </div>
             {%- else -%}
             <svg class="bubble-visual-hash lazy w-100 rounded-sm" data-bubble-visual-hash="{{ item.id }}" viewBox="0 0 300 200"></svg>
             {%- endif -%}

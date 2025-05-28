@@ -1,6 +1,6 @@
 ---
 title:          "MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation"
-date:           2024-5-22 00:00:00 +0000
+date:           2025-5-22 00:00:00 +0000
 selected:       true
 
 abstract: >-
